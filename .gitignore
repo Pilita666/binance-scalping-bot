@@ -1,0 +1,1 @@
+echo -e "__pycache__/\n.env\n*.pyc\n*.pkl\n/data/" > .gitignore
