@@ -1,4 +1,4 @@
-# BotIA-
+# binance-scalping-bot-
 /binance-scalping-bot
 │
 ├── /data                 # Dados históricos para treinamento
